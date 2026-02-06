@@ -7,8 +7,8 @@ This project analyzes employee attrition using the IBM HR Analytics dataset and 
 A mid-sized IT services organization (~1,500 employees) experienced rising resignations over the past 12–18 months, leading to higher hiring costs and project delivery challenges. Although monthly attrition data was available, it was scattered across multiple spreadsheets, resulting in assumption-driven decisions and limited visibility into key risk areas. This project consolidates HR attrition data into a centralized, interactive Tableau dashboard to identify high-attrition departments, at-risk employee groups, and key drivers of attrition, enabling focused, data-driven retention strategies.
 
 **Dataset Information**\
-*Dataset:* IBM HR Analytics Attrition Datase
-*Records:* 1,470 rows | 35 columns
+*Dataset:* IBM HR Analytics Attrition Dataset\
+*Records:* 1,470 rows | 35 columns\
 *Key Features:* Age, Gender, Department, Job Role, Attrition, Job Satisfaction, Overtime, Work-Life Balance, Percent Salary Hike, Years Since Last Promotion
 
 **Tools & Technologies**\
